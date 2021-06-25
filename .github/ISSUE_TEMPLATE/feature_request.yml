@@ -3,8 +3,7 @@ description: Suggest an idea or enhancement for Mekanism
 body:
   - type: markdown
     attributes:
-      value: |
-        *Please use the search functionality before requesting a feature. Also take a look at the closed issues!*
+      value: "*Please use the search functionality before requesting a feature. Also take a look at the closed issues!*"
   - type: textarea
     attributes:
       label: Describe the feature you'd like
